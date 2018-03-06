@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is Satya and I like solving problems with deep learning.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Will be posting some interesting things. Stay tuned!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[krishna.satyapriya123@gmail.com](mailto:krishna.satyapriya123@gmail.com)
