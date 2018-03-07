@@ -3,10 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
+<<<<<<< HEAD
 name: Satya Blogs
 
 # Short bio or description (displayed in the header)
 description: Go Deep!
+=======
+name: Satya blogs
+
+# Short bio or description (displayed in the header)
+description: go Deep!
+>>>>>>> 4f868116a590a5ea555b01d181959dddddb85861
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +25,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: krishna.satyapriya123@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: satyaprky12
   instagram:
   linkedin:
   pinterest:
